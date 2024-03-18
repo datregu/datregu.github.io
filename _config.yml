@@ -1,13 +1,13 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "Mi Diario de CFT"
+author: "Daniel TG"
+description: "Una recolección de mis aprendizajes a lo largo de mis prácticas FCT de DAW."
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+email: "datregu@mail.com"
+twitter_username: "da_nielet"
+github_username: "datregu"
+linkedin_username: "datregu"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
