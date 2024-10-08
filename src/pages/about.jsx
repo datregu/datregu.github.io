@@ -53,16 +53,14 @@ const About = () => {
 							<div className="about-left-side">
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
-										<img
-											src="about.jpg"
-											alt="about"
-											className="about-image"
-										/>
+										<img src={`${process.env.PUBLIC_URL}/about.jpg`} alt="about"
+											 className="about-image"/>
+
 									</div>
 								</div>
 
 								<div className="about-socials">
-									<Socials />
+									<Socials/>
 								</div>
 							</div>
 						</div>
