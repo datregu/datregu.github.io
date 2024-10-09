@@ -1,8 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta http-equiv="refresh" content="0; url=/#/" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 Not Found</title>
+    <script>
+        (function () {
+            var redirect = window.location.pathname + window.location.search;
+            var query = encodeURIComponent(redirect);
+            window.location.replace('/?/' + query + window.location.hash);
+        })();
+    </script>
 </head>
 <body>
+<h1>404 Not Found</h1>
 </body>
 </html>
